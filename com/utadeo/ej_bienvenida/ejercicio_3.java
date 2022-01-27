@@ -13,27 +13,23 @@ public class ejercicio_3 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Ingrese cuantos numeros primos desea consultar");
         try {
-            int a = Integer.parseInt(scan.nextLine());
-            int b = 0;
-            int c = 0;
-            do {
-                b++;
-                c = 0;
-                for (int x = 1; x <= b; x++) {
-                    if (b % x == 0) {
-                        c++;
-                    }
-                }
 
-                if (c == 2) {
-                    System.out.println("Es primo: " + b);
-                    a--;
-                }
+            System.out.println("Ingrese el string a modificar");
+            String a = scan.nextLine();
+            String b="";
 
+            a = a.replaceAll("\\s+","");
 
-            } while (a != 0);
+            for(int x = 0; x< a.length(); x++){
+                b= a.charAt(x) + b;
+            }
+
+            if(a.equals(b)){
+                System.out.println("Palindromo");
+            }else{
+                System.out.println("No es palindromo");
+            }
 
 
         } catch (Exception e) {
