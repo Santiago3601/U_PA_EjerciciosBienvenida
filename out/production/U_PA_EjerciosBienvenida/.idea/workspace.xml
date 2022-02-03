@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7f2e4d7-c5fa-4fe6-a848-ec3409761a88" name="Changes" comment="" />
+    <list default="true" id="a7f2e4d7-c5fa-4fe6-a848-ec3409761a88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/com/utadeo/ej_bienvenida/ejercicio_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +39,65 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sruiz\OneDrive\Documents\Universidad\Programación Avanzada\Ejercicios de bienvenida\U_PA_EjerciosBienvenida\com\utadeo\ej_bienvenida" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.utadeo.ej_bienvenida" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="ejercicio_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_8" />
+  <component name="RunManager" selected="Application.ejercicio_6">
+    <configuration name="ejercicio_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_2" />
+      <module name="U_PA_EjerciosBienvenida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utadeo.ej_bienvenida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_3" />
+      <module name="U_PA_EjerciosBienvenida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utadeo.ej_bienvenida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_4" />
+      <module name="U_PA_EjerciosBienvenida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utadeo.ej_bienvenida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_5" />
+      <module name="U_PA_EjerciosBienvenida" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utadeo.ej_bienvenida.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.utadeo.ej_bienvenida.ejercicio_6" />
       <module name="U_PA_EjerciosBienvenida" />
       <extension name="coverage">
         <pattern>
@@ -50,7 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ejercicio_8" />
+        <item itemvalue="Application.ejercicio_6" />
+        <item itemvalue="Application.ejercicio_4" />
+        <item itemvalue="Application.ejercicio_5" />
+        <item itemvalue="Application.ejercicio_3" />
+        <item itemvalue="Application.ejercicio_2" />
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +140,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/utadeo/ej_bienvenida/ejercicio_5.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/utadeo/ej_bienvenida/ejercicio_6.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
